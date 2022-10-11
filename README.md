@@ -35,7 +35,7 @@ Next we load up the JSON file.
 
 ```
 data = json.loads(open('data.json').read())
-```
+``` 
 
 At this point now we can go ahead and write our main function which will contain the code shown below. Just a simple breakdown of the main function is:
 
